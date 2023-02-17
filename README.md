@@ -25,5 +25,5 @@ Developer and lifetime learner leveraging an accounting, sales, and project mana
                     </p>
                     
                     
-                    ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubsumm&show_icons=true&theme=radical)
+                   
               
