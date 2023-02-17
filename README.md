@@ -24,4 +24,6 @@ Developer and lifetime learner leveraging an accounting, sales, and project mana
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
                     
+                    
+                    ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubsumm&show_icons=true&theme=radical)
               
