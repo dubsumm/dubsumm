@@ -10,8 +10,6 @@ Software Engineer at 100devs
 
 - 🌱 I’m currently learning **Vue**
 
-- 👨‍💻 All of my projects are available at [link]([https://will-summerlin.netlify.app/])
-
 - 💬 Ask me about **React, AI, Web Design**
 
 - 📫 How to reach me **w.b.summerlin@gmail.com**
