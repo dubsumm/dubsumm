@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Will Summerlin
 ======================================================================================================================================
 
-Software Engineer at 100devs
+Software Engineer at Bluworkz
 --------------------
 
 <h3 align="center">A passionate frontend engineer from Savannah, GA</h3>
 
-- 🔭 I’m currently working on **E-Commerce Clothing app**
+- 🔭 I’m currently working on **Redesigning my companies sign in user experience**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **how to migrate from Vue 2 to Vue 3**
 
-- 💬 Ask me about **React, AI, Web Design**
+- 💬 Ask me about ** AI, UI/UX, Google Firebase**
 
 - 📫 How to reach me **w.b.summerlin@gmail.com**
 
