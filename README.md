@@ -6,11 +6,11 @@ Software Engineer at Bluworkz
 
 <h3 align="center">A passionate frontend engineer from Savannah, GA</h3>
 
-- 🔭 I’m currently working on **Redesigning my companies sign in user experience**
+- 🔭 I’m currently working on **Company Banner Site **
 
-- 🌱 I’m currently learning **how to migrate from Vue 2 to Vue 3**
+- 🌱 My current side project **stock trading bot**
 
-- 💬 Ask me about ** AI, UI/UX, Google Firebase**
+- 💬 Ask me about ** Vue, Python, Firebase**
 
 - 📫 How to reach me **w.b.summerlin@gmail.com**
 
