@@ -6,7 +6,7 @@ Lead Developer at Bluworkz
 
 <h3 align="center">Full-Stack Engineer from Savannah, GA</h3>
 
-- 🔭 I’m currently working on: **Company Banner Site**
+- 🔭 I’m currently working on: **Enterprise Migration from Vue2/Realtime -> Vue3/Firestore**
 
 - 🌱 My current side project is: **stock trading bot**
 
@@ -16,7 +16,4 @@ Lead Developer at Bluworkz
 
 - ⚡ Fun fact **Esports > sports**
 
- alt="babel" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-</p>
 
